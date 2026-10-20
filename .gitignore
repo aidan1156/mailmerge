@@ -63,3 +63,5 @@ collection/.env.local
 template/.next
 template/.env.local
 template/dumps
+# Windows Mark-of-the-Web metadata (from copying downloads into WSL)
+*:Zone.Identifier
