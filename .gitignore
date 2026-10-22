@@ -37,6 +37,7 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+*:Zone.Identifier
 
 .nx/cache
 .nx/workspace-data
@@ -63,5 +64,3 @@ collection/.env.local
 template/.next
 template/.env.local
 template/dumps
-# Windows Mark-of-the-Web metadata (from copying downloads into WSL)
-*:Zone.Identifier
